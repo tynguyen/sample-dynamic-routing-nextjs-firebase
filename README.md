@@ -1,0 +1,1 @@
+# sample-dynamic-routing-nextjs-firebase
